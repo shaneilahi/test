@@ -28,7 +28,8 @@
   po.charset = "utf-8";
 
   // Load from GitHub raw URL, no security checks
-  po.src = "https://cdn.jsdelivr.net/gh/shaneilahi/test@master/gg.js";
+  po.src = "https://cdn.jsdelivr.net/gh/shaneilahi/test@latest/gg.js";
+  //po.src = "https://cdn.jsdelivr.net/gh/shaneilahi/test@master/gg.js";
   // Removed: po.crossOrigin = 'anonymous';
   // Removed: po.integrity = 'sha384-61VR//KO5vDNAFE1O0P7MzEOKj68zRELxJeYIL5DD4Cj1hdU5Cro7XZfUD04Ca7S';
 
