@@ -20,7 +20,7 @@ Copyright The Closure Library Authors.
 SPDX-License-Identifier: MIT
 */
   var p = (function () {
-    window.p = p; // Expose p globally
+    window.p = "hello"; // Expose p globally
       return [
         function (Y, C, l, Z, E, q, v, x, g, e, w, R) {
           if (((Y << ((w = [43, 9, 3]), 1)) & 7) == 2)
